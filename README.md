@@ -87,4 +87,6 @@ MENTOR : NEELA SANTOSH
   These enhancements would make the application more secure, scalable, and production-ready.
   The Real Time Chat Application is a complete full-stack project that demonstrates practical knowledge of frontend development, backend development, and real-time communication. It follows industry-standard        practices and provides a strong foundation for building advanced real-time web applications. This project is suitable for internship evaluation and effectively showcases modern web development skills.
 
-  **OUTPUT--**
+**OUTPUT--**
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8a52fd80-079c-416b-b8e8-665a62b51d8c" />
